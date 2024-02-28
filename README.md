@@ -4,5 +4,5 @@
 - Oranges
 - Pears
 - Bananas
-![Tiger](tiger.png)
+![Tiger](tiger.jpg)
 [Mohawk College](https://www.mohawkcollege.ca)
